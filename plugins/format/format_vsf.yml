@@ -1,7 +1,8 @@
 component: format_vsf
 source: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf
 maintainers:
-- github: [gemguardian, gjb2048]
+- github: gemguardian
+- github: gjb2048
 security-contact: https://github.com/Lesterhuis-Training-en-Consultancy/moodle-format_vsf/security/advisories/new
 labels:
 - fully-free
